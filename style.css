@@ -147,6 +147,7 @@
     }
     .title-text h1 {
         font-size: 50px;
+        color: #fff;
     }
     .history-desc {
         display: flex;
